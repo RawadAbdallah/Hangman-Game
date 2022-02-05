@@ -1,1 +1,1 @@
-word_list = ["mouse", "computer", "family", "python", "clock", "superman", "window", "apple", "king", "cat", "shark", "tank", "batman", "iphone", "samsung", "water", "orange", "gaming","bitcoin","dragon","snow", "pepsi", "screwdriver", "pollution"]
+word_list = ["mouse", "computer", "family", "python", "clock", "superman", "window", "apple", "king", "cat", "shark", "tank", "batman", "iphone", "samsung", "water", "orange", "gaming","bitcoin","dragon","snow", "pepsi", "screwdriver", "pollution","network"]
